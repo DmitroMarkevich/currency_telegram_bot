@@ -1,6 +1,6 @@
 
 # CurrencyRateTelegramBot
-TelegramBotDreamTeam is a cutting-edge currency bot project implemented using Java 17 programming language and leveraging powerful libraries such as Spring Boot (including Spring JPA and Hibernate), Telegram API and more. This bot provides real-time currency conversion and exchange rate information within the Telegram messaging platform.
+This is a currency bot project implemented using Java 17 programming language and leveraging powerful libraries such as Spring Boot (including Spring JPA and Hibernate), Telegram API and more. This bot provides real-time currency exchange rate information within the Telegram messaging platform.
 
 # Technologies Used
 
